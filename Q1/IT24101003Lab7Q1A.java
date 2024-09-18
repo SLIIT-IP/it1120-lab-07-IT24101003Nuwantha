@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24101003Lab7Q1{
+public class IT24101003Lab7Q1A{
 	
 	public static void main(String []args){
 		int count = 1;
